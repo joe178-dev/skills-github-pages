@@ -3,6 +3,6 @@ title: Welcome to my blog
 ---
 
 # Welcome to my blog
-## Things to reminds
+## Things to remind
 - [ ] Modify the home page
 - [X] 貼上圖片
